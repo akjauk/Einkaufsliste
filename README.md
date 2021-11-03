@@ -2,6 +2,8 @@
 
 ## **Name:** Lara Meister
 
+![alt text](pic.jpeg)
+
 **Alter:** 21 Jahre  
 **Studiengang:** MIB
 
